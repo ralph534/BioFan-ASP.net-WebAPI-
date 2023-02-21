@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "j9y8rs7L8gaOOeFS2Ux+TSLeXj/98T1DYzpTFwsBRGs=",
+  "Hash": "WlUffCVAaO0X8D/KJm6fTKc4FEZXdttHpuTqY7sBZbI=",
   "Source": "BioFan",
   "BasePath": "_content/BioFan",
   "Mode": "Default",
@@ -66,6 +66,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/css/site.css"
+    },
+    {
+      "Identity": "/Users/adampeters/Desktop/wyncode/BioFan/BioFan/wwwroot/data/Athletes.json",
+      "SourceId": "BioFan",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/adampeters/Desktop/wyncode/BioFan/BioFan/wwwroot/",
+      "BasePath": "_content/BioFan",
+      "RelativePath": "data/Athletes.json",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/data/Athletes.json"
     },
     {
       "Identity": "/Users/adampeters/Desktop/wyncode/BioFan/BioFan/wwwroot/favicon.ico",
