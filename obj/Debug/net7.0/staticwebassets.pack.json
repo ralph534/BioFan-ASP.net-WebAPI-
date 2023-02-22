@@ -9,8 +9,8 @@
       "PackagePath": "staticwebassets/css/site.css"
     },
     {
-      "Id": "/Users/adampeters/Desktop/wyncode/BioFan/BioFan/wwwroot/data/Athletes.json",
-      "PackagePath": "staticwebassets/data/Athletes.json"
+      "Id": "/Users/adampeters/Desktop/wyncode/BioFan/BioFan/wwwroot/data/athletes.json",
+      "PackagePath": "staticwebassets/data/athletes.json"
     },
     {
       "Id": "/Users/adampeters/Desktop/wyncode/BioFan/BioFan/wwwroot/favicon.ico",
